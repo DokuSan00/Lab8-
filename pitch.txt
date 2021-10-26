@@ -1,24 +1,23 @@
 Game Idea:
-Making an RPG game that takes place in a world full of zombies. The player must break through every mission, meet every conditions to end the game. During the game, the player will engage with zombies and must interact with some npcs to complete the mission. In addition, we will add some dialog to appear during the game.
+We're making an RPG game. It takes place in a world full of zombies and the player must break through every mission, meet every conditions to end the game. During the game, the player will engage with zombies (enemies), and must interact with npc to complete the missions. In addition, we will add some dialogs to appear during the game.
 
 Character Desciption:
-For this game, we will use top down image and we will plan to make the game half pixel-like.
+For this game, we will use top down perspective and we also plan to make the game half pixel-like.
 
-1. The MC will be the Survivor (John), who wear dark green clothes and armed with 3 weapons.
+1. The MC will be the Survivor (John): Wears dark green clothes and armed with 3 weapons.
 
-2. There's also a girl NPC which follows the MC after the player found her. This girl is  important in the game since she is the key to 
-complete the mission.
+2. There's also a girl (NPC): she will always follows the MC after the player finds her. She is an important condition to finish the game.
 
-Character's goals is to follow the given mission, and get to the end of the story line.
+Character's goals: Follow the given mission, and gradually progress through the game story.
 
 
-Win condition: is to get to the end and wait for rescuing
-Lost Condition: is to drop health to zero as the survivor gets bitten by the zombies.
+Win condition: Get to the end of the story and wait for rescuer.
+Lost Condition: When health reaches zero during the process.
 
-Progression of Levels: The game will have no power up for either the player and the zombies. But there would be a story line or a quest line, where the player must finish each mission to get to the other and lastly, to the end game.
+Progression of Levels: There will be a story line or a question where the player must finish each mision to progress and eventually reach end game. Though, the game won't have any power up for either the player and the zombies.
 
 Inspiration:
-Unescapable was inspired by games like Left For Dead for a zombie world, and some other RPG game like Zenonia,...
+Unescapable is inspired by games like Left For Dead for a zombie-esque world, and games like Zenonia for its RPG element,...
 
 What skills/interests:
 we only need a member that has basic programming skills or basic art skills.
